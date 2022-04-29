@@ -11,7 +11,7 @@ spec:
     storageClassName: managed-premium
     serviceAccountName: t8c-operator
   ui:
-    enabled: true
+    enabled: false
   market:
     image:
       pullPolicy: IfNotPresent
