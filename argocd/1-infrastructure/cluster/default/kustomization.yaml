@@ -3,3 +3,4 @@ kind: Kustomization
 resources:
   - base/namespace-toolkit.yaml
   - base/toolkit-cluster-config.yaml
+  - base/toolkit-console-link-job-sa.yaml
